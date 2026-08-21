@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://github.com/Sectigo-TrustOps/.github/security/advisories/new
+    about: Report vulnerabilities, exposed credentials, private keys, sensitive topology, or abuse paths privately.
+  - name: Documentation and browser labs
+    url: https://sectigo-trustops.github.io/docs/
+    about: Start with task guides, runnable labs, API contracts, and release status.

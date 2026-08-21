@@ -1,0 +1,33 @@
+name: Capability proposal
+description: Propose a discovery, evidence, integration, automation, or developer-experience improvement.
+title: "proposal: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: job
+    attributes:
+      label: User job
+      description: Describe the operator or developer outcome, not only a component.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence contract
+      description: What assets, locations, placements, findings, attempts, misses, and coverage must remain distinguishable?
+    validations:
+      required: true
+  - type: textarea
+    id: failure
+    attributes:
+      label: Failure and safety boundaries
+      description: State bounds, partial-result behavior, secret handling, and prohibited mutations.
+    validations:
+      required: true
+  - type: textarea
+    id: delivery
+    attributes:
+      label: Complete delivery path
+      description: Identify expected runtime, mock, API/SDK, OpenTofu, automation, docs, sample, and agent surfaces.
+    validations:
+      required: true
