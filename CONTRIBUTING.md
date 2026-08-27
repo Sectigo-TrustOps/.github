@@ -26,4 +26,4 @@ portfolio's evidence, safety, and no-account developer-experience contracts.
 
 Small fixes are welcome. A capability claim requires the stronger
 cross-repository proof described by the
-[delivery-readiness scorecard](https://sectigo-trustops.github.io/docs/docs/reference/delivery-readiness/).
+[delivery-readiness scorecard](https://sectigo-trustops.github.io/docs/reference/delivery-readiness/).

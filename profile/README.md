@@ -23,5 +23,5 @@ Certificate Manager when an enterprise management plane is required.
 - A capability is not complete until runtime, mocks, APIs, SDKs, OpenTofu,
   automation, docs, samples, and agent guidance agree.
 
-Use the [delivery-readiness scorecard](https://sectigo-trustops.github.io/docs/docs/reference/delivery-readiness/)
+Use the [delivery-readiness scorecard](https://sectigo-trustops.github.io/docs/reference/delivery-readiness/)
 to inspect machine-checked cross-repository evidence.
